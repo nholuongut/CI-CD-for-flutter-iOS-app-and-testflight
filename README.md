@@ -928,18 +928,20 @@ see the build number 4
 
 ![newbuild](./screenshots/newbuild.png)
 
+I'm are always open to your feedback.  Please contact as bellow information:
 ### [Contact ]
 * [Name: nho Luong]
 * [Skype](luongutnho_skype)
 * [Github](https://github.com/nholuongut/)
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [Email Address](luongutnho@hotmail.com) 
+* [Email Address](luongutnho@hotmail.com)
 
+![](https://i.imgur.com/waxVImv.png)
+![](bitfield.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 # License
 * Nho Luong (c). All Rights Reserved.
-
 
 
 
